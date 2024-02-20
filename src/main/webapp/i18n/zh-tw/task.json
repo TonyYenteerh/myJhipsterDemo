@@ -1,0 +1,27 @@
+{
+  "myJhipsterDemoApp": {
+    "task": {
+      "home": {
+        "title": "Tasks",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "建立一筆新的 Task",
+        "createOrEditLabel": "建立或編輯 Task",
+        "search": "搜尋 Task",
+        "notFound": "No Tasks found"
+      },
+      "created": "新的 Task 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Task 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Task 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Task {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}

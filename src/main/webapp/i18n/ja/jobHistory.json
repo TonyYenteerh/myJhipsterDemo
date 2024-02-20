@@ -1,0 +1,30 @@
+{
+  "myJhipsterDemoApp": {
+    "jobHistory": {
+      "home": {
+        "title": "JobHistories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Job History を追加",
+        "createOrEditLabel": "Job Historyを追加または編集",
+        "search": "Search for Job History",
+        "notFound": "No Job Histories found"
+      },
+      "created": "A new Job History is created with identifier {{ param }}",
+      "updated": "A Job History is updated with identifier {{ param }}",
+      "deleted": "A Job History is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Job History {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "id": "ID",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

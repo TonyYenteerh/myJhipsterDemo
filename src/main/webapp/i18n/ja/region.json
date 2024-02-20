@@ -1,0 +1,25 @@
+{
+  "myJhipsterDemoApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Region を追加",
+        "createOrEditLabel": "Regionを追加または編集",
+        "search": "Search for Region",
+        "notFound": "No Regions found"
+      },
+      "created": "A new Region is created with identifier {{ param }}",
+      "updated": "A Region is updated with identifier {{ param }}",
+      "deleted": "A Region is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Region {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "id": "ID",
+      "regionName": "Region Name"
+    }
+  }
+}

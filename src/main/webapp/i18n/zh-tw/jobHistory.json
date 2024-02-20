@@ -1,0 +1,30 @@
+{
+  "myJhipsterDemoApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "建立一筆新的 Job History",
+        "createOrEditLabel": "建立或編輯 Job History",
+        "search": "搜尋 Job History",
+        "notFound": "No Job Histories found"
+      },
+      "created": "新的 Job History 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Job History 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Job History 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Job History {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "id": "ID",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

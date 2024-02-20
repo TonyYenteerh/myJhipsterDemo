@@ -1,0 +1,27 @@
+{
+  "myJhipsterDemoApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "建立一筆新的 Department",
+        "createOrEditLabel": "建立或編輯 Department",
+        "search": "搜尋 Department",
+        "notFound": "No Departments found"
+      },
+      "created": "新的 Department 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Department 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Department 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Department {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "id": "ID",
+      "departmentName": "Department Name",
+      "location": "Location",
+      "employee": "Employee"
+    }
+  }
+}
